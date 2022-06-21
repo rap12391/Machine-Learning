@@ -1,6 +1,6 @@
 gym == 0.12.1
 matplotlib == 2.2.3
-numpy == 1.15.1
+numpy == 1.22.0
 pandas == 0.23.4
 scikit-learn == 0.19.2
 scikit-optimize == 0.5.2
